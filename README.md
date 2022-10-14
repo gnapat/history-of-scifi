@@ -7,10 +7,10 @@ Napat Phongvichian
 
 # Dataset
 
-IMDb Datasets https://www.imdb.com/interfaces/
+### IMDb Datasets https://www.imdb.com/interfaces/
 + 9,267,898 Row
 
-Column
+#### Column
 + titleType       
 + primaryTitle    
 + originalTitle   
@@ -21,10 +21,10 @@ Column
 + genres    
 
 
-Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
+### Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
 + 16543 Row
 
-Column
+#### Column
 + rank
 + title
 + studio
