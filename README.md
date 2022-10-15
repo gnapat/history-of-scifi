@@ -8,7 +8,7 @@ Napat Phongvichian
 # Dataset
 
 ### IMDb Datasets https://www.imdb.com/interfaces/
-+ 9,267,898 Row
++ file title.basics.tsv.gz and title.rating.tsv.gz 9,267,898 Row
 
 #### Column
 + titleType       
@@ -22,7 +22,7 @@ Napat Phongvichian
 
 
 ### Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
-+ 16543 Row
++ file boxoffice_2.csv 16543 Row
 
 #### Column
 + rank
