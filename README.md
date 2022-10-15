@@ -30,3 +30,9 @@ Napat Phongvichian
 + studio
 + lifetime_gross
 + year
+
+# Movies 1900 - 2022
+![image](https://user-images.githubusercontent.com/22583786/195967646-dc9cda0e-cb16-42ec-8cf7-2329e5843838.png)
+
+# The Star Wars franchise kicked off in 1977
+![image](https://user-images.githubusercontent.com/22583786/195967776-d8f32c46-422e-420a-a0d6-33c496506b0d.png)
