@@ -11,7 +11,6 @@ Napat Phongvichian
 + file title.basics.tsv.gz and title.rating.tsv.gz 9,267,898 Row
 
 #### Layout
-![image](https://user-images.githubusercontent.com/22583786/196339054-b64475d7-290b-4a85-9f3e-061d3acc7a65.png)
 |  | Field Name |	Type	| Info |
 |--|------------|----------|------|
 |1 |tconst|string|unique|identifier of the title|
