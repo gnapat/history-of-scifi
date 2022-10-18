@@ -10,15 +10,6 @@ Napat Phongvichian
 ### IMDb Datasets https://www.imdb.com/interfaces/
 + file title.basics.tsv.gz and title.rating.tsv.gz 9,267,898 Row
 
-#### Column
-+ titleType       
-+ primaryTitle    
-+ originalTitle   
-+ isAdult         
-+ startYear       
-+ endYear         
-+ runtimeMinutes  
-+ genres    
 #### Layout
 ![image](https://user-images.githubusercontent.com/22583786/196339054-b64475d7-290b-4a85-9f3e-061d3acc7a65.png)
 
@@ -27,12 +18,7 @@ Napat Phongvichian
 ### Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
 + file boxoffice_2.csv 16543 Row
 
-#### Column
-+ rank
-+ title
-+ studio
-+ lifetime_gross
-+ year
+
 #### Layout
 ![image](https://user-images.githubusercontent.com/22583786/196339267-a78d2849-a559-47f7-b65a-72344b8055fe.png)
 
