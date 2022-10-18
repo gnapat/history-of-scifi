@@ -18,9 +18,10 @@ Napat Phongvichian
 |3 |primaryTitle|string|	popular title|
 |4 |originalTitle|string|	original title|
 |5 |isAdult|bool|	0: non-adult title; 1: adult title|
-|6 |startYear|YYYY|	release year|
-|7 |endYear|YYYY|	end year|
+|6 |startYear|string date|	release year|
+|7 |endYear|string date|	end year|
 |8 |runtimeMinutes|int|	primary runtime of the title, in minutes|
+|9 |genres|string array|includes up to three genres associated with the title|
 
 
 ### Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
