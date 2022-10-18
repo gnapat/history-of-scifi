@@ -72,6 +72,22 @@ File: movies_sheet1.csv
 |Talk-Show|	int|	Talk-Show genres|
 |Game-Show|	int|	Game-Show genres|
 
+File: movies_sheet2.csv
+|Field Name|	Type|	description|
+|----|------------|-------------|
+|tconst|	string|	unique identifier of the title.|
+|titleType|	string|	the type/format of the title.|
+|primaryTitle|	string|	popular title.|
+|originalTitle|	string|	original title.|
+|isAdult|	bool|	0: non-adult title; 1: adult title.|
+|startYear|	string date|	release year.|
+|endYear|	string date|	end year.|
+|runtimeMinutes|	int|	primary runtime of the title, in minutes.|
+|genres|	string array|	includes up to three genres associated with the title.|
+|averageRating|	int|	calculator takes a number of votes for each rating .|
+|numVotes|	int|	total number of votes.|
+|lifetime_gross|	int|	Life Time Value.|
+
 # Movies 1900 - 2022
 ![image](https://user-images.githubusercontent.com/22583786/195967646-dc9cda0e-cb16-42ec-8cf7-2329e5843838.png)
 
