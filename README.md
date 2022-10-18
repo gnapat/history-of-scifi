@@ -19,6 +19,19 @@ Napat Phongvichian
 + endYear         
 + runtimeMinutes  
 + genres    
+#### Layout
+	Field Name	Type	Info
+1	tconst	string	unique identifier of the title
+2	titleType	string	the type/format of the title
+3	primaryTitle 	string	popular title
+4	originalTitle 	string	original title
+5	isAdult 	bool	0: non-adult title; 1: adult title
+6	startYear 	YYYY	release year
+7	endYear 	YYYY	end year
+8	runtimeMinutes 	int	primary runtime of the title, in minutes
+9	genres 	string array	includes up to three genres associated with the title
+![image](https://user-images.githubusercontent.com/22583786/196339054-b64475d7-290b-4a85-9f3e-061d3acc7a65.png)
+
 
 
 ### Boxofficemojo https://www.kaggle.com/datasets/eliasdabbas/boxofficemojo-alltime-domestic-data
