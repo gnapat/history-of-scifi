@@ -29,7 +29,13 @@ Napat Phongvichian
 
 
 #### Layout
-![image](https://user-images.githubusercontent.com/22583786/196339267-a78d2849-a559-47f7-b65a-72344b8055fe.png)
+|  |	Field Name|	Type|	Info|
+|--|------------|----------|------|
+|1|	rank|	string|	unique identifier of the title|
+|2|	title|	string|	the type/format of the title|
+|3|	studio| 	string|	Company|
+|4|	lifetime_gross| 	int|	Life Time Value.|
+|5|	year|	string date|	release year|
 
 # Movies 1900 - 2022
 ![image](https://user-images.githubusercontent.com/22583786/195967646-dc9cda0e-cb16-42ec-8cf7-2329e5843838.png)
