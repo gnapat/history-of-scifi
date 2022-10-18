@@ -37,6 +37,41 @@ Napat Phongvichian
 |4|	lifetime_gross| 	int|	Life Time Value.|
 |5|	year|	string date|	release year|
 
+# New Dataset
+File: movies_sheet1.csv
+|Field Name|	Type	|description|
+|----|------------|-------------|
+|year|	string|	release year|
+|All|	int|	All genres|
+|Romance|int|	Romance genres|
+|Action|	int|	Action genres|
+|Adventure|	int|	Adventure genres|
+|Biography|	int|	Biography genres|
+|Drama|	int|	Drama genres|
+|Fantasy|	int|	Fantasy genres|
+|Comedy|	int|	Comedy genres|
+|War|	int|	War genres|
+|Documentary|	int|	Documentary genres|
+|Crime|	int|	Crime genres|
+|Family|	int|	Family genres|
+|History|	int|	History genres|
+|Sci-Fi|	int|	Sci-Fi genres|
+|Thriller|	int|	Thriller genres|
+|Western|	int|	Western genres|
+|Sport|	int|	Sport genres|
+|Mystery|	int|	Mystery genres|
+|Horror|	int|	Horror genres|
+|Music|	int|	Music genres|
+|Animation|	int|	Animation genres|
+|Musical|	int|	Musical genres|
+|Film-Noir|	int|	Film-Noir genres|
+|News|	int|	News genres|
+|Short|	int|	Short genres|
+|Adult|	int|	Adult genres|
+|Reality-TV|	int|	Reality-TV genres|
+|Talk-Show|	int|	Talk-Show genres|
+|Game-Show|	int|	Game-Show genres|
+
 # Movies 1900 - 2022
 ![image](https://user-images.githubusercontent.com/22583786/195967646-dc9cda0e-cb16-42ec-8cf7-2329e5843838.png)
 
