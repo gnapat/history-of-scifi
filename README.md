@@ -3,7 +3,10 @@
 โดยนำ dataset ที่เกียวข้องมาวิเคราะห์ว่า ภาพยนตร์ Sci-Fi มีการได้รับความนิยมหรือมีอิทธิพลอย่างไรในวงการภาพยนตร์
 
 # Author
-Napat Phongvichian
+Napat Phongvichian (นพัต พงษ์วิเชียร)
+ID: 6420422022
+graduate student in Applied Statistics at National Institute of Development Administration.
+
 
 # Dataset
 
